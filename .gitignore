@@ -1,0 +1,3 @@
+# Project exclude paths
+/rabbitMqClient/target/
+/rabbitMqServer/target/
